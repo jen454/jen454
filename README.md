@@ -16,10 +16,5 @@
 <div align-center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen454&layout=compact"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jen454&show_icons=true">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jen454">
 </div>
-<!-- <div align-center>
-  (https://github-readme-stats.vercel.app/api?username=jen454&show_icons=true&theme=radical)
-  (http://mazassumnida.wtf/api/v2/generate_badge?boj=jen454)](https://solved.ac/jen454/)
-</div> -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
