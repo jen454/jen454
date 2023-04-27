@@ -1,5 +1,5 @@
 <div align-center>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=#99c36e&height=220&section=header&text=jen454;&fontSize=60&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+  (https://capsule-render.vercel.app/apitype=waving&color=#99c36e&height=220&section=header&text=jen454;&fontSize=60&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 </div>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
