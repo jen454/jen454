@@ -15,6 +15,6 @@
 <br>
 <div align-center>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jen454&custom_title=jinwook's&nbsp;GitHub&nbsp;✨&bg_color=D1EDE1,91D4C2,3D82AB,68799E&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 440px""/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jen454&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=91D4C2,45BB89,3D82AB,003853&title_color=fff&text_color=fff&langs_count=6">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jen454&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=D1EDE1,91D4C2,3D82AB,68799E&title_color=fff&text_color=fff&langs_count=6">
 </div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
