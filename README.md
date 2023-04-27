@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=77b85f&height=220&section=header&text=jen454;&fontSize=60&&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=91D4C2&height=220&section=header&text=jen454;&fontSize=60&&fontColor=ffffff)
 </div>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
@@ -17,4 +17,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jen454&custom_title=jinwook's&nbsp;GitHub&nbsp;✨&bg_color=D1EDE1,91D4C2,3D82AB,68799E&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 440px""/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jen454&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=D1EDE1,91D4C2,3D82AB,68799E&title_color=fff&text_color=fff&langs_count=6">
 </div>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=68799E&height=220&&section=footer)
