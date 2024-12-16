@@ -24,6 +24,5 @@
 <br>
 <div align-center>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jen454&custom_title=jinwook's&nbsp;GitHub&nbsp;✨&bg_color=D1EDE1,91D4C2,3D82AB,68799E&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 440px""/>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jen454)](https://solved.ac/jen454)
 </div>
 
