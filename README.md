@@ -1,6 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=91D4C2&height=220&section=header&text=ShinJinWook;&fontSize=60&&fontColor=ffffff)
 
-## 🛠 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘
+<div align='center' style={{width: 394px }}>
+
+## 📍 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 & 𝑺𝒐𝒄𝒊𝒂𝒍 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
+
+| 소속 및 단체 | 활동 기간 | 내용 |
+| --- | --- | --- |
+| 국민대학교 | 2022.03~ | 국민대학교 소프트웨어학부 재학 |
+| 윙크(WINK) | 2023.03 ~ | 국민대학교 소프트웨어융합대학 소속 웹 학술 동아리(WINK) 부원 |
+| 윙크(WINK) | 2024.01 ~ 2025.01 | 국민대학교 소프트웨어융합대학 소속 웹 학술 동아리(WINK) 임원진 |
+  
+## 🖥 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+
+| 기간 | 내용 |
+| --- | --- |
+| 2023.06 ~ 2023.09 | [WINK 여름방학 자체 프로젝트] 교환일기 FrontEnd 개발 |
+| 2023.09 ~ 2024.01 | [WINK 2023-2 자체 프로젝트] 국민대학교 분실물 관리 서비스 "분시리" FrontEnd 개발 |
+| 2024.07 ~ 2024.08 | [WINK 2024 여름방학 부트캠프] 국민대학교 일반 근로 알바 지원 서비스 "WSSRS" FrontEnd 개발 |
+| 2024.08 ~ 2024.08 | [WINK 2024-2 페르소나 해커톤] 한국 거주 유학생들을 위한 한국 문화 커뮤니티 플랫폼 "HanQu" FrontEnd 팀장 및 개발 |
+| 2024.09 ~ 2024.11 | [WINK] 웹 학술 동아리 "WINK 공식 홈페이지" FrontEnd 개발 |
+| 2024.07 ~ 2024.11 | [D&X:W Conference] Mermaid 모델을 활용한 회의 내용 요약 플랫폼 서비스 "Clerker" FrontEnd 팀장 및 개발 |
+
+## 🛠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 ### 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒
 <div>
@@ -41,12 +62,12 @@
   <img src="https://img.shields.io/badge/aws%20ec2-FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
 </div>
 
-## 🪪 𝑪𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑒
+## 🪪 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆
 
   |취득일|자격명|등급|주관|
 |:---|:---|:---|:---|
 |2023.07.07|SQLD||한국데이터산업진흥원|
 
-## 💻 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚
+## 💻 𝑨𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jen454)](https://solved.ac/jen454/)
 
