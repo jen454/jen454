@@ -21,6 +21,7 @@
 | 2024.09 ~ 2024.11 | [WINK] 웹 학술 동아리 "WINK 공식 홈페이지" FrontEnd 개발 |
 | 2024.07 ~ 2024.11 | [D&X:W Conference] Mermaid 모델을 활용한 회의 내용 요약 플랫폼 서비스 "Clerker" FrontEnd 팀장 및 개발 |
 | 2025.02 ~ 2025.03 | FC ONLINE 토너먼트 매니저 웹사이트 "MatchUp" FrontEnd, BackEnd 개발 |
+| 2025.11 ~ 2025.11 | [WINK 2025-2 EBTI 해커톤] EBTI 유형 팀 매칭 시너지 측정 AI Agent "Weave" FrontEnd 팀장 및 개발 |
 
 ## 🛠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
@@ -62,6 +63,13 @@
 <div>
   <img src="https://img.shields.io/badge/aws%20ec2-FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
 </div>
+
+## 🏆 Contest
+| 𝐴𝑤𝑎𝑟𝑑 | 𝐷𝑎𝑡𝑒       | 𝑁𝑎𝑚𝑒                                            | 𝐴𝑟𝑒𝑎               |
+|------------|----------------|-----------------------------------------------------|------------------------|
+| 최우수상          | 2025. 11. 02 | [국민대학교 웹 학술 동아리 Wink × EBTI 해커톤] | 𝐻𝑎𝑐𝑘𝑎𝑡ℎ𝑜𝑛      |
+
+<br/>
 
 ## 🪪 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆
 
